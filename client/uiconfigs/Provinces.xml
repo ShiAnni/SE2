@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Provinces>
+  <Province ID="1" ProvinceName="北京市">北京市</Province>
+  <Province ID="9" ProvinceName="上海市">上海市</Province>
+  <Province ID="10" ProvinceName="江苏省">江苏省</Province>
+  <Province ID="19" ProvinceName="广东省">广东省</Province>
+</Provinces>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cities>
+  <City   Province="北京市">北京市</City>
+  <City   Province="上海市" >上海市</City>
+  <City   Province="江苏省" >南京市</City>
+  <City   Province="广东省" >广州市</City>
+</Cities>
